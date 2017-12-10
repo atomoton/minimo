@@ -7,3 +7,5 @@ instagram = 'https://instagram.com/'
 linkedin = 'https://linkedin.com/in/'
 twitter = 'https://twitter.com/'
 telegram = 'https://t.me/'
+mastodon = "https://scifi.fyi/web/accounts/"
+gitlab = "https://gitlab.com/"
